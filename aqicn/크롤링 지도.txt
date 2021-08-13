@@ -1,0 +1,18 @@
+빈저우시  Binzhou                                     https://aqicn.org/city/binzhou/
+지난시  City Monitoring Station, Jinan             https://aqicn.org/city/shandong/jinan/shijiancezhan/   o
+타이안시  Taishan monitoring station, Taian      https://aqicn.org/city/shandong/taian/taishanjiancezhan/ o
+지닝시  Jining                                           https://aqicn.org/city/jining/  pass
+쫘오장시  Zaozhuang                                  https://aqicn.org/city/zaozhuang/  o
+더저우시  Jiuyi Spring Pure Water Factory, Decheng District  https://aqicn.org/city/shandong/dezhou/jianlizhan/ 데이터 약2달 반 빈값 x
+라오청시  Liaocheng                                   https://aqicn.org/city/liaocheng/ o
+허쩌시    Heze                                             https://aqicn.org/city/heze/  o
+
+
+
+둥잉시 Dongying                                    https://aqicn.org/city/dongying/  o
+쯔보시 Zibo                                       https://aqicn.org/city/zibo/    o
+린이시  linyi                                          https://aqicn.org/city/linyi/ o
+웨이팡시					https://aqicn.org/city/weifang/ o  2018년 1월 중간에 1로 가라데이터 들어가있음
+르자오시					https://aqicn.org/city/rizhao/  o   2018년 1월 중간에 값없음	
+칭다오시 			https://aqicn.org/city/shandong/qingdao/huangdaoqu2hao/  2018년 1월 중간에 1로 가라데이터 들어가있음
+옌타이시     https://aqicn.org/city/yantai/ 
